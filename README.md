@@ -18,6 +18,4 @@ Architecture:
 
 I intentionally didn't do any follow up feature requests to show case what the vanilla model is capable out of the box.
 
-# See it live
-
-How to run it? Use Github pages.
+[Play Live](https://alexewerlof.github.io/gemma-snake/)
