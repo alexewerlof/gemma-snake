@@ -1,6 +1,6 @@
 # Intro
 
-This is a simple one-shot example to demonstrate how VS Code Copilot can be used with Gemma 4 26B running in LM Studio. The entire prompt was this (no AGENTS.md):
+This is a simple one-shot example to demonstrate [how VS Code Copilot can be used with Gemma 4 26B running in LM Studio](https://blog.alexewerlof.com/p/local-llms-for-agentic-coding). The entire prompt was this (no AGENTS.md):
 
 ```
 Create the game snake in the browser.
